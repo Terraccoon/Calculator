@@ -1,0 +1,29 @@
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Die ersten Versuche\Die ersten Versuche\Die ersten Versuche\bin\Debug\Die ersten Versuche.exe.config
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Die ersten Versuche\Die ersten Versuche\Die ersten Versuche\bin\Debug\Die ersten Versuche.exe
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Die ersten Versuche\Die ersten Versuche\Die ersten Versuche\bin\Debug\Die ersten Versuche.pdb
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Die ersten Versuche\Die ersten Versuche\Die ersten Versuche\obj\Debug\Die ersten Versuche.csprojAssemblyReference.cache
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Die ersten Versuche\Die ersten Versuche\Die ersten Versuche\obj\Debug\Die_ersten_Versuche.Form1.resources
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Die ersten Versuche\Die ersten Versuche\Die ersten Versuche\obj\Debug\Die_ersten_Versuche.Properties.Resources.resources
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Die ersten Versuche\Die ersten Versuche\Die ersten Versuche\obj\Debug\Die ersten Versuche.csproj.GenerateResource.cache
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Die ersten Versuche\Die ersten Versuche\Die ersten Versuche\obj\Debug\Die ersten Versuche.csproj.CoreCompileInputs.cache
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Die ersten Versuche\Die ersten Versuche\Die ersten Versuche\obj\Debug\Die ersten Versuche.exe
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Die ersten Versuche\Die ersten Versuche\Die ersten Versuche\obj\Debug\Die ersten Versuche.pdb
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Übung 4 Taschenrechner\Die ersten Versuche\bin\Debug\Die ersten Versuche.exe.config
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Übung 4 Taschenrechner\Die ersten Versuche\bin\Debug\Die ersten Versuche.exe
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Übung 4 Taschenrechner\Die ersten Versuche\bin\Debug\Die ersten Versuche.pdb
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Übung 4 Taschenrechner\Die ersten Versuche\obj\Debug\Die ersten Versuche.csprojAssemblyReference.cache
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Übung 4 Taschenrechner\Die ersten Versuche\obj\Debug\Die_ersten_Versuche.Form1.resources
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Übung 4 Taschenrechner\Die ersten Versuche\obj\Debug\Die_ersten_Versuche.Properties.Resources.resources
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Übung 4 Taschenrechner\Die ersten Versuche\obj\Debug\Die ersten Versuche.csproj.GenerateResource.cache
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Übung 4 Taschenrechner\Die ersten Versuche\obj\Debug\Die ersten Versuche.exe
+C:\Users\PHOTON ENERGY\Desktop\WinForms\Übung 4 Taschenrechner\Die ersten Versuche\obj\Debug\Die ersten Versuche.pdb
+C:\Users\A.Krapp\Desktop\WinForms\Übung 4 Taschenrechner\Die ersten Versuche\bin\Debug\Die ersten Versuche.exe.config
+C:\Users\A.Krapp\Desktop\WinForms\Übung 4 Taschenrechner\Die ersten Versuche\bin\Debug\Die ersten Versuche.exe
+C:\Users\A.Krapp\Desktop\WinForms\Übung 4 Taschenrechner\Die ersten Versuche\bin\Debug\Die ersten Versuche.pdb
+C:\Users\A.Krapp\Desktop\WinForms\Übung 4 Taschenrechner\Die ersten Versuche\obj\Debug\Die ersten Versuche.csproj.AssemblyReference.cache
+C:\Users\A.Krapp\Desktop\WinForms\Übung 4 Taschenrechner\Die ersten Versuche\obj\Debug\Die_ersten_Versuche.Form1.resources
+C:\Users\A.Krapp\Desktop\WinForms\Übung 4 Taschenrechner\Die ersten Versuche\obj\Debug\Die_ersten_Versuche.Properties.Resources.resources
+C:\Users\A.Krapp\Desktop\WinForms\Übung 4 Taschenrechner\Die ersten Versuche\obj\Debug\Die ersten Versuche.csproj.GenerateResource.cache
+C:\Users\A.Krapp\Desktop\WinForms\Übung 4 Taschenrechner\Die ersten Versuche\obj\Debug\Die ersten Versuche.csproj.CoreCompileInputs.cache
+C:\Users\A.Krapp\Desktop\WinForms\Übung 4 Taschenrechner\Die ersten Versuche\obj\Debug\Die ersten Versuche.exe
+C:\Users\A.Krapp\Desktop\WinForms\Übung 4 Taschenrechner\Die ersten Versuche\obj\Debug\Die ersten Versuche.pdb
